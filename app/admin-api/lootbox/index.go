@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/garupanojisan/omikuji-api/app/usecase/lootbox"
+	"github.com/garupanojisan/lootbox/app/usecase/lootbox"
 )
 
 func Index(c *gin.Context) {

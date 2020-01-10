@@ -3,7 +3,7 @@ package lootbox
 import (
 	"fmt"
 
-	model "github.com/garupanojisan/omikuji-api/app/models/lootbox-item"
+	model "github.com/garupanojisan/lootbox/app/models/lootbox-item"
 	pick "github.com/garupanojisan/rand-pick"
 	"github.com/garupanojisan/rand-pick/algorythm"
 )

@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/garupanojisan/omikuji-api/app/admin-api/lootbox"
+	"github.com/garupanojisan/lootbox/app/admin-api/lootbox"
 )
 
 func main() {
